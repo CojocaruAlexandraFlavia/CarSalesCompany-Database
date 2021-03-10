@@ -2,7 +2,7 @@
 
 Database Management Systems project where the database stores all the car models, clients and their acquisitions. 
 
-Requirements:
+  *Requirements*:
 1. Briefly present the database (its usefulness).
 2. Make the entity-relationship diagram (ERD).
 3. Starting from the entity-relationship diagram, make the conceptual diagram of the proposed model, integrating all the necessary attributes.
