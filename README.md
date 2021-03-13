@@ -14,6 +14,6 @@ Database Management Systems project where the database stores all the car models
 9. Define a stored procedure subprogram that uses 5 of the defined tables. Treat all exceptions that may occur. Call the subprogram so that all the cases treated are highlighted.
 10. Define a LMD trigger at the command level. Trigger the trigger.
 11. Define a line level LMD trigger. 
-12. Define an LDD trigger. 
+12. Define a LDD trigger. 
 13. Define a package that contains all the objects defined in the project.
 14. Define a package that includes complex data types and objects required for integrated actions.
